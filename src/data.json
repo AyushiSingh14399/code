@@ -1,0 +1,32 @@
+ {
+    "products": [
+      {
+        "_id": "Laptop1",
+        "title": "Laptop 1",
+        "image": "/images/d1.jpg",
+        "price": 60000,
+        "description": "With dual HP speakers, HP Audio Boost, and custom tuning by the experts at B&O PLAY, you can experience rich, authentic audio. Let the sound move you., 512 GB PCIe® NVMe™ M.2 SSD, NVIDIA® GeForce® MX250,1 year limited parts and labour"
+      },
+      {
+        "_id": "Laptop2",
+        "title": "Laptop 2",
+        "image": "/images/d1.jpg",
+        "price": 20000,
+        "description": "Hp"
+      },
+      {
+        "_id": "Mouse1",
+        "title": "Mouse 1",
+        "image": "/images/d2.jpg",
+        "price": 1000,
+        "description": "Hp"
+      },
+      {
+        "_id": "Mouse2",
+        "title": "Mouse 2",
+        "image": "/images/d2.jpg",
+        "price": 2000,
+        "description": "Hp"
+      }
+      ]
+    }

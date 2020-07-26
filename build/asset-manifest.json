@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/busweb/static/css/main.47a774ef.chunk.css",
+    "main.js": "/busweb/static/js/main.e1c10635.chunk.js",
+    "main.js.map": "/busweb/static/js/main.e1c10635.chunk.js.map",
+    "runtime-main.js": "/busweb/static/js/runtime-main.486ce83f.js",
+    "runtime-main.js.map": "/busweb/static/js/runtime-main.486ce83f.js.map",
+    "static/js/2.1ecd2fe5.chunk.js": "/busweb/static/js/2.1ecd2fe5.chunk.js",
+    "static/js/2.1ecd2fe5.chunk.js.map": "/busweb/static/js/2.1ecd2fe5.chunk.js.map",
+    "index.html": "/busweb/index.html",
+    "precache-manifest.5e77ebf83bc5cf9ab97bfe7c98df3a97.js": "/busweb/precache-manifest.5e77ebf83bc5cf9ab97bfe7c98df3a97.js",
+    "service-worker.js": "/busweb/service-worker.js",
+    "static/css/main.47a774ef.chunk.css.map": "/busweb/static/css/main.47a774ef.chunk.css.map",
+    "static/js/2.1ecd2fe5.chunk.js.LICENSE.txt": "/busweb/static/js/2.1ecd2fe5.chunk.js.LICENSE.txt",
+    "static/media/Intel.png": "/busweb/static/media/Intel.d2357681.png",
+    "static/media/index.css": "/busweb/static/media/back5.cd724000.jpg",
+    "static/media/banner.jpg": "/busweb/static/media/banner.5ae7767a.jpg",
+    "static/media/contact.php": "/busweb/static/media/contact.3f230652.php",
+    "static/media/custom.jpg": "/busweb/static/media/custom.aab22222.jpg",
+    "static/media/dell.jpg": "/busweb/static/media/dell.8cc17cf7.jpg",
+    "static/media/hp.png": "/busweb/static/media/hp.7dd5d9d5.png",
+    "static/media/laptop2.jpg": "/busweb/static/media/laptop2.3d519ce2.jpg",
+    "static/media/repair.jpg": "/busweb/static/media/repair.efaec5b0.jpg",
+    "static/media/tally.png": "/busweb/static/media/tally.67d2d5b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486ce83f.js",
+    "static/js/2.1ecd2fe5.chunk.js",
+    "static/css/main.47a774ef.chunk.css",
+    "static/js/main.e1c10635.chunk.js"
+  ]
+}
